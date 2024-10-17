@@ -9,7 +9,7 @@ SetKeyDelay(-1)
 SetMouseDelay(-1)
 
 ; ====== MODIFIABLE PARAMETERS ======
-; Area to click (pre-set as per user's request)
+; Area to click
 global clickAreaX1 := 170, clickAreaY1 := 56  ; Top-left coordinate
 global clickAreaX2 := 915, clickAreaY2 := 475 ; Bottom-right coordinate
 
