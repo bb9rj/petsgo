@@ -3,11 +3,11 @@
 A simple AutoHotkey (AHK) script designed to alternate between clicking in a defined area to break items and walking your character around to collect them.
 
 ## Features
-- **Click and Walk Cycle:** Break items by clicking in a specific area, then walk your character around to collect the items.
-- **Customizable Click Area:** Default area is based on a 1920x1080 resolution with the window positioned at the top-left (aligned up and right). You can modify the coordinates to fit your window wize. The click area will be visible as a faint rectangle.
+- **Click and Walk Cycle:** Break items by clicking in a specific area. Walk your character around to collect the items.
+- **Customizable Click Area:** Default area is based on a 1920x1080 resolution with the window positioned at the top-left (aligned up and right with windows key and arrows). You can modify the coordinates to fit your window wize. The click area will be visible as a faint rectangle.
 - **Hotkey Controls:**
   - `F7`: Start the script
-  - `F6`: Pause (pauses after the current loop is finished)
+  - `F6`: Pause (pauses after the current loops are finished)
   - `F8`: Stop the script
 
 ## Customization
