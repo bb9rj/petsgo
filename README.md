@@ -4,7 +4,7 @@ A simple AutoHotkey (AHK) script designed to alternate between clicking in a def
 
 ## ✨ Features
  **Click and Walk Cycle**  
- Break items by clicking in a specific area, then walk your character around to collect the items.
+ The loop breaks items by clicking randomly in a specific area, then walk your character around to collect the items.
 
  **Customizable Click Area**  
  Default area is based on a 1920x1080 resolution with the window positioned at the top-left (aligned using Windows key and arrow keys). You can modify the coordinates to fit your window size. The click area will be visible as a faint rectangle.
