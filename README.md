@@ -12,10 +12,10 @@ A simple AutoHotkey (AHK) script designed to alternate between clicking in a def
  **Multi-account:**  
  The script will cycle through your Roblox windows and click to prevent disconnects.
 
-⌨ **Hotkey Controls:**
-   `F7`: Start the script
-   `F6`: Pause (pauses after the current loops are finished)
-   `F8`: Stop the script
+**Hotkey Controls:**  
+`F7`: Start the script  
+`F6`: Pause (pauses after the current loops are finished)  
+`F8`: Stop the script
 
 ## 🛠️ How to Use
 - Stand in a wide open area.
