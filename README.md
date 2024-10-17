@@ -25,7 +25,8 @@ A simple AutoHotkey (AHK) script designed to alternate between clicking in a def
 
 ## 🛠️ Customization
  **Adjust Click Area:**  
- Modify the X and Y coordinates within the script to customize where the clicking happens on your screen.
+ Modify the X and Y coordinates within the script to customize where the clicking happens on your screen.  
+ 
  **Modify Walking Behavior:**  
  The walking pattern is customizable. You can adjust the movement directions and timings based on your preferences.
 
