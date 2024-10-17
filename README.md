@@ -1,6 +1,6 @@
 # PetsGO Maze Walk
 
-A simple AutoHotkey (AHK) script designed to alternate between clicking in a defined area and walking your character around to break items and collect them.
+A simple AutoHotkey (AHK) script designed to alternate between clicking in a defined area to break items and walking your character around to collect them.
 
 ## Features
 - **Click and Walk Cycle:** Break items by clicking in a specific area, then walk your character around to collect the items.
