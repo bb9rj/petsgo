@@ -151,7 +151,7 @@ RandomClickLoop(duration) {
 }
 
 ShowTooltip(text) {
-    ToolTip(text, 14, 64)  ; Position the tooltip at (10, 10) in the window
+    ToolTip(text, 14, 64)  ; Position the tooltip top left in the window
 }
 
 ; Show the clickable area with a GUI
