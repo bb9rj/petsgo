@@ -3,10 +3,13 @@
 A simple AutoHotkey (AHK) script designed to alternate between clicking in a defined area to break items and walking your character around to collect them.
 
 ## ✨ Features
-- **Click and Walk Cycle:** Break items by clicking in a specific area, then walk your character around to collect the items.
-- **Customizable Click Area:** Default area is based on a 1920x1080 resolution with the window positioned at the top-left (aligned using Windows key and arrow keys). You can modify the coordinates to fit your window size. The click area will be visible as a faint rectangle.
-- **Multi-account:** The script will cycle through your Roblox windows and click to prevent disconnects.
-- **Hotkey Controls:**
+🖱️ **Click and Walk Cycle:** Break items by clicking in a specific area, then walk your character around to collect the items.
+
+🖼️ **Customizable Click Area:** Default area is based on a 1920x1080 resolution with the window positioned at the top-left (aligned using Windows key and arrow keys). You can modify the coordinates to fit your window size. The click area will be visible as a faint rectangle.
+
+🔄 **Multi-account:** The script will cycle through your Roblox windows and click to prevent disconnects.
+
+⌨️ **Hotkey Controls:**
   - `F7`: Start the script
   - `F6`: Pause (pauses after the current loops are finished)
   - `F8`: Stop the script
@@ -25,6 +28,7 @@ A simple AutoHotkey (AHK) script designed to alternate between clicking in a def
 
 ## 🚀 Future Features
 - Automatically position the camera.
+
 - Automatically resize the window upon start.
 
 ## 💡 Acknowledgments
