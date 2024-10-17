@@ -17,7 +17,7 @@ A simple AutoHotkey (AHK) script designed to alternate between clicking in a def
 `F6`: Pause (pauses after the current loops are finished)  
 `F8`: Stop the script
 
-## 🛠️ How to Use
+## 🤔 How to Use
 - Stand in a wide open area.
 - Make sure to stay away from the trading plaza teleport.
 - Avoid standing near gamepass signs to prevent misclicks.
@@ -29,6 +29,7 @@ A simple AutoHotkey (AHK) script designed to alternate between clicking in a def
  **Modify Walking Behavior:**  
  The walking pattern is customizable. You can adjust the movement directions and timings based on your preferences.
 
+## 🖼️ Screenshot
 ![Screenshot](https://github.com/user-attachments/assets/6d4f5693-315e-4abe-9e77-e38446e70df1)
 
 ## 🚀 Future Features
