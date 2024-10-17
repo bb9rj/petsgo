@@ -1,15 +1,22 @@
-# Readme
+# PetsGO Maze Walk
 
-A simple ahk script that cycles between clicking in a defined area and walking your character around. Designed to break items, then walk around and collect them.
+A simple AutoHotkey (AHK) script designed to alternate between clicking in a defined area and walking your character around to break items and collect them.
 
-Press F7 to start, F6 to pause (will pause after loops are finished), and F8 to stop.
+## Features
+- **Click and Walk Cycle:** Break items by clicking in a specific area, then walk your character around to collect the items.
+- **Customizable Click Area:** Default area is based on a 1920x1080 resolution with the window positioned at the top-left (aligned up and right). You can modify the coordinates to fit your screen, and the click area will be visible as a faint rectangle.
+- **Hotkey Controls:**
+  - `F7`: Start the script
+  - `F6`: Pause (pauses after the current loop is finished)
+  - `F8`: Stop the script
 
-Default click area is based on 1920x1080 resolution with window moved to the top left with <windows key> up, <windows key> right.
+## Customization
+- **Adjust Click Area:** Modify the X and Y coordinates within the script to customize where the clicking happens on your screen.
+- **Modify Walking Behavior:** The walking pattern is customizable. You can adjust the movement directions and timings based on your preferences.
 
-You can set your own click area by modifying the coordinates. The click area will be visible as a faint rectangle drawn on your screen.
+## Future Features
+- Keep background accounts alive while running.
+- Automatically resize the window upon start.
 
-Based on found code and modified with help from chatgpt
-
-#Features to add
-– Keep background accounts alive
-– Resize window upon start
+## Acknowledgments
+This script is based on found code and was further improved with assistance from ChatGPT.
