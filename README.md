@@ -34,6 +34,7 @@ A simple AutoHotkey (AHK) script designed to alternate between clicking in a def
 ![Screenshot](https://github.com/user-attachments/assets/6d4f5693-315e-4abe-9e77-e38446e70df1)
 
 ## 🚀 Future Features
+– Test multi account further and make it better
 - Automatically position the camera.
 - Automatically resize the window upon start.
 - Base the click area on window size.
